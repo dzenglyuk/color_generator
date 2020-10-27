@@ -1,1 +1,1 @@
-# color_generator
+# Color Generator
